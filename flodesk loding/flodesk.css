@@ -1,0 +1,190 @@
+body{
+   font-family: sans-serif;
+   
+}
+
+
+
+
+.logo{
+    width:100px;
+    height: 50px;
+    object-fit:contain;
+    margin-top: 50px;
+    margin-left: 328px;
+   margin-right: 325px;
+    margin-bottom: 0px;
+   padding-top: 0px;
+   padding-bottom: 0px;
+
+
+}
+.flodesk{
+    width: 600px;
+}
+.p1{
+    margin-top: 10px;
+    margin-left: 340px;
+    padding-left: 7px;
+    padding-right: 35px;
+    /* border:1px solid red; */
+    font-size: 8px;
+    font-weight: bold;
+    width:fit-content;
+}
+input{
+    border-radius: 5px;
+    border: 1px solid grey;
+    width: 150px;
+    
+}
+input::placeholder{
+    font-family: sans-serif;
+    font-size:7px;
+    color: rgb(97, 96, 96);
+   /* text-align: center; */
+}
+.email{
+   margin-left: 300px;
+   margin-top: 10px;
+   font-size: xx-small;
+   border-color: rgb(209, 209, 209);
+   border-width: 0.75px;
+   padding-top: 5px;
+   padding-left: 10px;
+   padding-bottom: 5px;
+   align-self: center;
+   height: 15px;
+}
+.pass{
+    margin-left: 300px;
+    margin-top: 5px;
+    font-size: xx-small;
+    border-color: rgb(209, 209, 209);
+    border-width: 0.75px;
+    align-self: center;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    height: 15px;
+}
+.log{
+    background-color: black;
+    color: white;
+    font-size: 8px;
+    padding: 10px;
+    border-radius: 20px;
+    width: 128px;
+    border:none;
+}
+.login{
+    margin-left: 320px;
+    margin-top: 15px;
+}
+.signup{
+    display: flex;
+    height: max-content;
+    margin-left: 350px;
+    margin-top: 20px;
+    padding-bottom: 0%;
+    /* border:1px solid red; */
+    width: fit-content;
+    padding-top:0%;
+    padding-left: 0%;
+    padding-right: 0%;
+    margin-bottom: 0%;
+    align-items: center;
+    justify-content:flex-start;
+}
+.sign{
+    background: none;
+    border: none;
+    text-decoration: underline;
+    font-size: 7px;
+    color: rgb(54, 54, 54);
+    align-items: baseline;
+    padding: 1px;
+    margin: 1px;
+    
+}
+.mem{
+    color: grey;
+    font-size: 7px;
+   align-items:center ;
+   margin-top: 0%;
+   margin-bottom: 0%;
+
+}
+
+.forget{
+    text-decoration: underline;
+    font-size: 7px;
+    color: rgb(54, 54, 54);
+    margin-left: 352px;
+    margin-top: 5px;   
+}
+
+.terms{
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+    margin-left: 350px;
+    gap: 0px;
+    margin-left: 330px;
+    margin-top: 10px;
+    margin-bottom: 0%;
+}
+
+.trm{
+    color: grey;
+    font-size: 6px;
+    align-items: center;
+
+}
+
+.term{
+    border: none;
+    background: none;
+    font-size: 6px;
+    text-decoration: underline;
+    color: grey;
+    padding:1px;
+    margin: 1px;
+    
+
+}
+
+.privacy{
+    display: flex;
+    align-items:baseline;
+    justify-content:flex-start ;
+    margin-left:325px; 
+   margin-top:0px;
+    margin-bottom: 0%;
+    padding: 0%;
+    gap: 0px;
+
+}
+
+.conti{
+    color:grey;
+    font-size: 6px;
+    align-items: center;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-top: 0%;
+}
+
+.priv{
+    border: none;
+    background: none;
+    font-size: 6px;
+    text-decoration: underline;
+    color: grey;
+    padding-left: 2px;
+    padding-top: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+  
+    
+}
